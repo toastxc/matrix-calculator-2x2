@@ -4,7 +4,9 @@ and so this calcualtor only works for 2x2 matrices
 
 # installation
 mkdir src
+
 cp main.rs src/
-cargo run
+
 cargo build
+
 cp target/debug/matrix4 matrixcalc.exe
