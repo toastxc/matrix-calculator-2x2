@@ -3,7 +3,6 @@ I will remake this once I figure out how to dynamically create matrices, for now
 and so this calcualtor only works for 2x2 matrices
 
 # installation
-
 mkdir src
 cp main.rs src/
 cargo run
