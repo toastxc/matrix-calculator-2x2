@@ -3,10 +3,11 @@ I will remake this once I figure out how to dynamically create matrices, for now
 and so this calcualtor only works for 2x2 matrices
 
 # installation
-mkdir src
 
-cp main.rs src/
+git clone https://github.com/toastxc/matrix-calculator-2x2.git
+
+cd matrix-calculator-2x2
 
 cargo build
 
-cp target/debug/matrix4 matrixcalc.exe
+cargo run
