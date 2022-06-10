@@ -6,7 +6,7 @@ and so this calcualtor only works for 2x2 matrices
 
 git clone https://github.com/toastxc/matrix-calculator-rust.git
 
-cd matrix-calculator-2x2
+cd https://github.com/toastxc/matrix-calculator-rust
 
 cargo build
 
